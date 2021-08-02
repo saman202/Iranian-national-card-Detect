@@ -2,7 +2,7 @@
 
 
 <pre>Download Training Weights: </pre>
-<pre><code>https://drive.google.com/drive/folders/1BTtPzgjj6mITWfEDuiy8AFVDWWhZWqjN?usp=sharing
+<pre><code>https://drive.google.com/file/d/1VNsLyXTHYfgmME3yKJ3bZf6dx3VoFQnm/view?usp=sharing
 </code></pre>
 
 
