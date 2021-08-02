@@ -1,0 +1,6 @@
+opencv-python
+numpy
+face_recognition_models
+face_recognition
+csv
+PySimpleGUI
